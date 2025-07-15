@@ -1,0 +1,4 @@
+NOVA IMS offers three bachelor's degree programs:
+- Data Science
+- Information Management
+- Information Systems

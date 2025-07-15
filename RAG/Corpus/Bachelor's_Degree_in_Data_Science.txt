@@ -1,0 +1,79 @@
+Bachelor's Degree in Data Science
+
+In the Bachelor's Degree in Data Science, students learn the most modern artificial intelligence and machine learning techniques to analyze large volumes of data (Big Data). They will become true data scientists, considered the sexiest profession of the 21st century by the Harvard Business Review.
+The main objective of this course is to train future professionals capable of understanding, developing and using models, algorithms and the most advanced techniques in data science, to analyze and extract knowledge from Big Data.
+The 4th phase of applications under the International Student Statute for the 2025/26 academic year will be open from April 24th to May 28th, 2025.
+
+
+Career Opportunities
+The Bachelor´s Degree in Data Science allows a quick integration in the most varied sectors of activity, namely: Information Technology Companies, Communication Companies, Banking, Insurance, Retail, Telecommunications, Utilities Companies, Biomedical Companies, Pharmaceuticals, Public Administration and Companies industrial. The main professional opportunities are:
+
+Big Data Analyst; Data Engineer; Specialist in Machine Learning; Data Scientist; Specialist in Artificial Intelligence Systems; Specialist in the development of Automatic Learning Algorithms; Technical and Managerial Positions in Public Administration.
+
+
+Program Goals:
+The bachelor's degree in Data Science aims to strengthen the intermediate step between data collection and decision making based on them, i.e. to develop advanced methods of data science and artificial intelligence. To this end, the course of study adopts a primarily technical perspective. The goal is to provide in-depth knowledge of the fundamental methodologies and concepts, in order to provide the student with the ability to update more specific technical knowledge and to keep up with the rapid evolution of this sector.
+
+In this context, the graduate in Data Science should:
+
+- Understand the theoretical foundations of statistics, Machine Learning and Artificial Intelligence methods;
+- Identify and understand the most efficient algorithm for each specific problem;
+- Design and develop state-of-the-art data science algorithms;
+- Work closely with IT specialists to integrate Data Science algorithms into existing systems;
+- Identify underlying patterns and extract useful information from the large volume of heterogeneous data that exists in organizations;
+- Be proficient in commonly used statistical procedures, frameworks, machine learning techniques and systems;
+- Stimulate interest in keeping up with scientific advances in the field of Data Science and Artificial Intelligence.
+
+
+Program Structure
+The course lasts 3 years (6 semesters) and classes start in September 2025.
+
+The study plan corresponds to 180 ECTS, of which 150 ECTS correspond to mandatory curricular units (the first 5 semesters) and 30 ECTS correspond to optional curricular units (last semester of the course), which will be chosen by each Student, from among a wide range of curricular units available.
+
+
+Admissions and Fees
+Establishment Code: 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação
+Course Code: L188
+Entry Exam Subjects (One of the following):
+- 19 - Mathematics A and 02 - Biology and Geology
+- 19 - Mathematics A and 04 - Economy
+- 19 - Mathematics A and 07 - Physics and Chemistry
+- 19 - Mathematics A and 09 - Geography
+- 19 - Mathematics A and 10 - Descriptive Geometry
+- 19 - Mathematics A and 18 - Portuguese
+
+NOTICE: The exams presented are valid for admissions in the 2025/26 academic year, through the National Competition for Access to Higher Education.
+
+Minimum Grades
+- Applicants Grade: 100
+- Entry Exam Grade: 95
+
+Formula of Applicants Grade
+- Secondary School Grade: 50%
+- Entry Exam Subjects: 50%
+
+Prerequesites
+- None
+
+Vacancies
+- 45
+
+General Quota Last Entry Grade 2024-2025
+- 1st Phase - 17.78
+
+
+Program Coordinator
+
+Name: Mauro Castelli
+Title: Full Professor
+Email: mcastelli@novaims.unl.pt
+
+
+
+Tuition fee
+
+The annual fee set for the academic year 2025/26, for the students of the National Contest for Access to Higher Education, is €697. This payment can be made in full or in 10 instalments. 
+
+For the students of the International Student Contest, the annual fee for the academic year 2025/26, is €7.500. This payment can also be made in full or in 5 instalments.
+
+The Student (national or international), when registering for a school year, has to take into account that the full payment of the tuition fee fixed for that school year (the monthly fees/benefits are a payment facility), even if they cancel the registration/withdraw of the course.

@@ -1,0 +1,224 @@
+Allocation of a Portuguese Social Security Identification Number (NISS)
+ 
+What is the Social Security Identification Number (NISS)?
+The Social Security Identification Number (NISS) is the number that allows a unique, precise and accurate identification of citizens towards the Social Security system, at national level.
+ 
+Request for a Social Security Identification Number (NISS) – Foreign Citizens and National Citizens who are not required to have a Citizen Card
+The Social Security Identification Number (NISS) is automatically allocated to national citizens when they apply for the Citizen Card.
+The request for the allocation of a Social Security Identification Number (NISS) to a foreign citizen or a national citizen who is not required to have a citizen card is submitted by completing the online form available here: Pedido de NISS – Cidadão Estrangeiro ou Cidadão Nacional sem obrigatoriedade de ter cartão de cidadão (Request for a Social Security Identification Number (NISS) – Foreign Citizens and National Citizens who are not required to have a Citizen Card).
+ 
+How is the Social Security Identification Number (NISS) allocated to Legal Persons?
+
+The request for the allocation of a Social Security Identification Number to legal persons (registration in the Social Security system) is made automatically to the Social Security Institute whenever the legal persons (companies) are created online.
+
+When the legal persons (companies) are registered at the commercial registry offices, this fact is communicated ex officio, electronically and free of charge by the commercial registry offices to the Social Security Institute.
+
+The legal persons registration is mandatory and it is communicated ex officio through automatic data transmission by the Tax and Customs Authority (AT) to Social Security, on the date of:
+
+the activity beginning communication;
+the creation of companies/associations under the special scheme for the immediate creation of companies and associations, the online creation of companies, or the immediate creation of permanent representations of foreign entities;
+communication by the registry offices of the employers registered under the commercial scheme and of the employers included in the central registry of companies, in the case of entities not subject to mandatory commercial registration;
+admission of the first worker, in the case of natural persons who benefit from the professional activity of third parties, carried out under an employment contract;
+the inspection and supervision activities (in the case of entities created without official registration, with workers at their service).
+
+For further information on the allocation of a Social Security Identification Number (NISS) to legal persons, please see the Practical Guide – Registration and Change of Data – Legal Person.
+ 
+How is the Social Security Identification Number (NISS) allocated to Natural Persons?
+
+NATIONAL CITIZENS WITH A CITIZEN CARD
+ 
+The Social Security Identification Number (NISS) is automatically allocated to national citizens when they apply for the Citizen Card.
+ 
+FOREIGN CITIZENS AND NATIONAL CITIZENS WHO ARE NOT REQUIRED TO HAVE A CITIZEN CARD
+ 
+The request for the allocation of a Social Security Identification Number (NISS) to a foreign citizen or a national citizen who is not required to have a citizen card is made through an online form available on the Social Security Portal; in the Sou Cidadão (I am a Citizen) menu, click on Atribuição de Número de Identificação de Segurança Social (NISS) (Allocation of Social Security Identification Number – NISS)  > Formulário para pedido de Número de Identificação de Segurança Social (Social Security Identification Number application form).
+
+Please note: When the application is submitted by the Employer, it is exclusively aimed to the allocation of a Social Security Identification Number to the foreign citizen, being the Employer required to communicate the worker's employment relationship, through the Social Security Online Service (SSD – Segurança Social Direta).
+
+Necessary documents for the NISS application submission by the applicant himself/herself (foreign citizen or national citizen who is not required to have a citizen card)
+ 
+Copy of the civil identification document of the applicant, valid at the time of the application submission. The accepted ID documents are the following:
+ 
+
+In the case of a national citizen without a citizen card, he/she must submit a valid ID card
+In the case of a foreign citizen from a third country, i.e., countries that are not members of the European Union (EU) or of the European Economic Area (EEA) - Any country not bound to Portugal by an international agreement or convention on the coordination of social security systems:
+	
+Simple copy of the Passport, or
+Residence Permit, Authorization (Temporary/Permanent)
+
+
+
+(simple copies of the documents, whether the application is submitted by the citizen or a legal representative on his/her behalf).
+ 
+Please note: In accordance with Article 84 of Law no. 23/2007, the residence permit shall replace, for all legal purposes, the ID document, without prejudice to the arrangements provided for by the Treaty of Friendship, Cooperation and Consultation between the Portuguese Republic and the Federative Republic of Brazil, signed in Porto Seguro on 22 April 2000.
+ 
+
+In the case of a foreign citizen of another EU/EEA Member State or Switzerland, one of the following documents must be attached to the form:
+	
+Civil identification document of the country of origin, or
+Passport, or
+Residence card.
+
+
+
+(simple copies of the documents, whether the application is submitted by the citizen or a legal representative on his/her behalf).
+ 
+
+In the case of citizens covered by International Protection (outside the scope of Temporary Protection – Ukraine) and in the case of citizens who do not have another ID document, the following documents shall be considered for identification purposes:
+	
+Proof of the application submission for a temporary residence permit; temporary residence permit; proof of the temporary residence permit extension; proof of residence permit/subsidiary protection granting - refugee; residence permit/subsidiary protection - refugee; proof of the residence permit extension – refugee; proof of the residence permit/subsidiary protection extension; statement of international protection.
+
+
+
+Documentary evidence of the reason for the NISS application
+
+In accordance with Article 99 of the Social Security Framework Law as amended, and for the purposes of the Social Security Identification Number (NISS) allocation, in the Documento de Identificação  (Identification Document) field, please insert, in a single file, your ID document and the documents required to assess your application:
+ 
+
+proof of employment status:
+	
+employment contract (employees or domestic service workers) - (translated into Portuguese), or
+copy of the document attesting the self-employment activity beginning and copy of the receipts/invoices (self-employed persons), or
+company registration certificate issued by the Institute of Registries and Notary (IRN) - permanent commercial certificate (Members of Statutory Bodies), or
+proof of an employment contract with a foreign Employer in the case of Digital Nomads, or
+document attesting that the person concerned is entitled to be covered by the Voluntary Social Insurance Scheme.
+
+
+
+Documents required for the application examination
+
+In the case of a foreign citizen from a third country, one of the following documents must be attached to the form:
+
+Residence Permit/Authorization (Temporary/Permanent).
+Short-stay visa/temporary stay for seasonal work;
+Work/residence visa, such as:
+	
+Residence visa for the exercise of subordinate professional activity;
+Residence visa for self-employed persons or immigrant entrepreneurs;
+Residence visa for teaching, highly qualified or cultural activities;
+Residence visa for highly qualified activities carried out by a subordinate worker;
+Residence visa for professional activities provided remotely for entities outside the national territory;
+Residence visa for research, studies, exchange of secondary school students, internships and voluntary work;
+Residence visa for the purpose of family reunification;
+Temporary stay visa for the transfer of workers;
+Visa for job search;
+Digital nomad visa.
+
+
+
+Please note: In the case of Members of Statutory Bodies, the residence permit submission is only required if the person concerned is residing in Portugal. If not, he/she is only required to submit a copy of the respective ID document and a document attesting that he/she is a Member of a Statutory Body (company registration certificate issued by the Institute of Registries and Notary - permanent commercial certificate)
+Or
+
+Proof of application for:
+
+Residence Permit/Authorization (Temporary/Permanent).
+Residence Visa for citizens of the Community of Portuguese Speaking Countries (CPLP)
+Residence Permit Certificate for citizens of the Community of Portuguese Speaking Countries (CPLP)
+
+ 
+
+In the case of a foreign citizen of another EU/EEA Member State or Switzerland, and given the right of free movement and residence that these citizens enjoy, they do not fall within the personal scope of Law no. 23/2007 of 4 July, approving the legal regime for the entry, stay, exit and removal of foreigners from the national territory.
+
+ 
+Please note: If the NISS applicant is holder of a residential register number or residence card, this document must be attached to the NISS application form.
+ 
+Additional documents required when the NISS application is submitted by the Employer or Legal Representative 
+
+Valid ID document of the legal representative;
+Formal proof of the legal representation (power of attorney – original document);
+
+or
+
+Form PA-12 - Declaration of Authorisation to Third Parties, and copy of the valid identification document of the represented person.
+
+ 
+All the necessary data for the identification of the person concerned (foreign citizen or national citizen who is not required to have a Citizen Card) in the Social Security System must be provided; more specifically, the data included in the application form, such as:
+
+Full name;
+Date of Birth;
+Gender;
+Marital status;
+Country of birth;
+Place of birth;
+Nationality;
+Type and number of Civil Identification Document;
+Expiry date;
+Taxpayer number (if already allocated);
+Country of residence;
+Address
+Address (to be indicated only if the country of residence is ≠ PT);
+Mobile phone number
+Email
+Attachments: copy of valid ID document of the legal representative and of the legal representation document or Form PA-12 - Declaration of Authorisation to Third Parties
+
+ 
+Single Application for the allocation of a Social Security Identification Number (NISS), a Tax Identification Number (NIF) and a National User Number (NNU) of the National Health Service (SNS)
+Foreign citizens who do not have a Portuguese Citizen Card and who fulfil one of the conditions listed below may request the allocation of a Social Security Identification Number (NISS), a Tax Identification Number (NIF) and a National User Number (NNU) of the National Health Service (SNS) in a single application.
+ 
+Necessary conditions for the allocation of the three identification numbers
+In order to be allocated the three identification numbers (NISS, NIF and NNU) the foreign citizen must:
+
+have submitted an application for a residence permit or already have such permit, or
+be a national of an European Union (EU) country, or
+have applied for International Protection, including asylum and subsidiary protection, with the exception of citizens covered by Temporary Protection under the Council of Ministers Resolution no. 29A/2022, or
+be holder of the refugee status or beneficiary of international protection.
+
+ 
+Where to submit the application
+The application for a NISS, NIF and NNU allocation may be submitted at the following Customer Information Services:
+
+Espaço Cidadão de Braga – Município (Citizen Space of Braga - Municipality),
+Espaço Cidadão de Lagos (Citizen Space of Lagos),
+Espaço Cidadão da Loja de Cidadão de Cascais (Citizen Space of the Cascais Citizen Shop),
+Espaço Cidadão da Loja de Cidadão do Saldanha (Citizen Space of the Saldanha Citizen Shop),
+Espaço Cidadão da Loja de Cidadão das Laranjeiras – Lisboa (Citizen Space of the Laranjeiras Citizen Shop – Lisbon),
+Espaço Cidadão da Loja de Cidadão de Setúbal (Citizen Space of the Setúbal Citizen Shop),
+Espaço Cidadão de Loures – LoureShopping (Citizen Space of Loures in the LoureShopping),
+Espaço de Cidadão de Oeiras Parque (Citizen Space of the Oeiras Park),
+Espaço Cidadão de Olhão (Citizen Space of Olhão), and
+Espaço Cidadão da União das Freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória (Citizen Space of the Union of Parishes of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau and Vitória).
+
+How to apply
+In order to make the request for the allocation of NISS, NIF and NNU, the person concerned  is required to make the authentication with Digital Mobile Key (CMD) or through the European Authentication System (eIDAS) – which is available for member countries. If the citizen does not have a CMD, he/she can use his/her passport to activate the application.
+Please Note: In the case of a foreign national that has already requested the allocation of a NISS through the Social Security Portal and also applies for a NISS, NIF and NNU allocation in one of the 10 Customer Information Services, only one NISS will be allocated, although there are two applications.
+ 
+Exceptional situations for foreign citizens
+Specific situations in which certain documents cannot be submitted:
+
+When the Agency for Integration, Migration and Asylum (AIMA, I.P.) requires the allocation of a Social Security Identification Number (NISS) by the Social Security Institute (ISS, I.P.) to the following persons, in order to grant them a residence permit so that they may carry out a professional activity:
+
+- Foreign citizens with a visa for job search;
+- Foreign citizens with a student visa;
+- Citizens with a temporary stay visa (seasonal work);
+- Among others.
+ 
+In this type of situation, and when it is not possible to submit, for example, a residence permit/authorisation, or proof of the respective application submission, or even proof of the performance of a professional activity, the foreign citizen must attach the following documents to the NISS application form:
+
+The applicable ID documents, as previously mentioned;
+Statement/Request from AIMA, I.P. justifying the need for the NISS allocation to the foreign citizen.
+
+ 
+When it is necessary to allocate a NISS to citizens covered by EU regulations, regardless of their nationality (spouses, dependants, etc.), the foreign citizen must attach the following documents to the NISS application form:
+
+The applicable ID documents, as previously mentioned;
+Documents necessary for a Social Security benefit granting, according to the Social Security services of the area concerned.
+
+ 
+When the application is submitted by a “frontier” worker, i.e., a person who works in Portugal but lives in another EU country, to which he/she returns every day or at least once a week, the residence permit/authorisation is not required (as the person concerned does not live in Portugal nor intends to live in Portugal). In this case, the foreign citizen must attach the following documents to the NISS application form:
+
+The applicable ID documents, as previously mentioned;
+Proof of employment (Employees, Domestic Service Workers) or self-employment (Self-employed Persons).
+
+ 
+Necessary documents for the NISS document collection
+The NISS document collection is made by the person to whom the NISS was allocated, with submission of a valid ID document (identity card, passport, residence permit or other civil identification document).
+The NISS document may also be delivered to a Lawyer who submits his/her professional certificate and an original power of attorney.
+It may also be collected by a third party, provided that he/she submits an original power of attorney or form PA 12 and the respective ID document.
+The notification/communication of the NISS allocation, informing that the respective document must be collected at a Social Security Customer Information Service (with prior appointment), is sent to the applicant's address stated in the Application Form, or to the address of the Legal Representative, by Registered Letter.
+ 
+In order to avoid queues, you can schedule your appointment to collect the NISS via the 210 548 888 or 300 088 888 Appointments Line, business days from 9:00 a.m. to 6:00 p.m.
+Additional information on this theme is available in the Practical Guide – Request for a Social Security Identification Number (NISS) – Foreign Citizens and National Citizens who are not required to have a Citizen Card
+ 
+
+
+

@@ -1,0 +1,45 @@
+NOVA IMS offers 23 postgraduate and 17 master's programs.
+
+The postgraduate programs are:
+- Postgraduate Program in Artificial Intelligence for Business Transformation
+- Postgraduate Program in Business Intelligence
+- Postgraduate Program in Intelligence Management and Security
+- Postgraduate Program in Data Analytics
+- Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
+- Postgraduate Program Enterprise Data Science & Analytics
+- Postgraduate Program in Statistical Systems, with a specialization in Central Banks' Statistics
+- Postgraduate Program in Statistical Systems, with a specialization in Official Statistics
+- Postgraduate Program in Data Science for Marketing
+- Postgraduate Program in Digital Marketing and Analytics
+- Postgraduate Program in Marketing Intelligence
+- Postgraduate Program in Marketing Research and CRM
+- Postgraduate Program in Information Systems Management
+- Postgraduate Program in Digital Transformation
+- Postgraduate Program in Data Science for Finance
+- Postgraduate Program in Risk Management
+- Postgraduate Program in Financial and Budgetary Management and Control
+- Postgraduate Program in Financial Markets and Risks
+- Postgraduate Program in Geospatial Data Science
+- Postgraduate Program in Geographic Information Systems and Science
+- Postgraduate Program in Geospatial Intelligence
+- Postgraduate Program in Information Management and Business Intelligence in Healthcare
+- Postgraduate Program in Health Data Science and Analytics
+
+The master's programs are:
+- Master Degree in Data Science and Advanced Analytics, with a specialization in Business Analytics
+- Master Degree in Information Management, with a specialization in Business Intelligence
+- Master Degree in Data Science and Advanced Analytics, with a specialization in Data Science
+- Master Degree in Statistics and Information Management, with a specialization in Data Analytics
+- Master Degree in Data-Driven Marketing, with a specialization in Data Science for Marketing
+- Master Degree in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics
+- Master Degree in Data-Driven Marketing, with a specialization in Marketing Intelligence
+- Master Degree in Data-Driven Marketing, with a specialization in Marketing Research and CRM
+- European Master of Science in Information Systems Management
+- Master Degree in Information Management, with a specialization in Information Systems Management
+- Master Degree in Information Management, with a specialization in Digital Transformation
+- Master Degree in Law and Financial Markets
+- Master Degree in Risk Management
+- Master of Science in Geospatial Technologies
+- Master Degree in Geographic Information Systems and Science, with a specialization in Geospatial Data Science
+- Master Degree in Geographic Information Systems and Science, with a specialization in Geographic Information Systems and Science
+- Master Degree in Clinical Research Management
