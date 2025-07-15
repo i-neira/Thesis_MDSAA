@@ -1,0 +1,288 @@
+[
+    {
+        "question": "What is the average monthly rent in Lisbon?",
+        "answer": " The average rent in Lisbon has seen some fluctuations over the past few years. It reached a peak during 2023 but has been decreasing since then. However, it's essential to note that the actual cost of rent can vary greatly depending on which neighborhood you choose to live in. Your biggest living expense while in Lisbon will likely be your rent. Other expenses like groceries typically cost between €250 to €400 per month. I hope this gives you a rough idea! Let me know if you have any other questions about student life in Lisbon or studying at NOVA IMS.",
+        "contexts": [
+            "Average rent in Lisbon",
+            ". The average cost of rent in Lisbon hit a peak during 2023, but has been decreasing ever since",
+            ". The amount you pay in rent while living in Lisbon will vary a lot depending on which Lisbon neighbourhood you decide to live",
+            "Your biggest living expense in Lisbon will certainly be the cost of your rent",
+            ". Groceries in Lisbon will typically cost between €250 to €400 per month"
+        ]
+    },
+    {
+        "question": "How much does transportation cost in Lisbon?",
+        "answer": " Transportation costs in Lisbon can be quite affordable. Taxis have a base rate of €3.25 and an additional charge of €0.47 per kilometer. If you anticipate mostly traveling around Lisbon, Amadora, and Odivelas, consider the municipal subscription which is priced at €30 per month. Public transport in Lisbon is simple to use and generally safe. Additionally, groceries usually cost between €250 to €400 monthly.",
+        "contexts": [
+            "Cost of transport in Lisbon",
+            "Taxis in Lisbon are also pretty cheap with a base rate of €3.25 and an extra €0.47 per km",
+            ". If you think you’ll mainly be travelling around Lisbon, Amadora and Odivelas— the municipal subscription, which costs €30 per",
+            ". Public transport in Lisbon is fairly simple to use and generally safe",
+            ". Groceries in Lisbon will typically cost between €250 to €400 per month"
+        ]
+    },
+    {
+        "question": "What is the overall cost of living in Lisbon?",
+        "answer": " I'm here to assist with questions about NOVA IMS and student life in Portugal, including the costs associated with living in Lisbon. The cost of living in Lisbon can be broken down into several expenses, one of which is rent, which is your biggest expense. However, the amount you pay for rent can vary greatly depending on the neighborhood you choose to live in. In recent years, the average cost of rent in Lisbon has been decreasing after peaking during 2023. Another expense to consider is the cost of food and transportation. I'd be happy to help answer any specific questions you have about these or other costs related to student life at NOVA IMS or living in Lisbon.",
+        "contexts": [
+            "Cost of living in Lisbon (2025)\n\n\nCost of food in Lisbon",
+            "Your biggest living expense in Lisbon will certainly be the cost of your rent",
+            ". The amount you pay in rent while living in Lisbon will vary a lot depending on which Lisbon neighbourhood you decide to live",
+            ". The average cost of rent in Lisbon hit a peak during 2023, but has been decreasing ever since",
+            "Cost of transport in Lisbon"
+        ]
+    },
+    {
+        "question": "What steps should I take after arriving in Lisbon?",
+        "answer": " Welcome to Lisbon! I'm thrilled to hear that you're making the move to this beautiful city. After arriving, there are a few key steps to help you settle in:\n\n1. **Obtaining your Residency Card:** As an international student, it's important to apply for your residency card at the local SEF (Serviço de Estrangeiros e Fronteiras) office. You'll need some documents, including your passport, acceptance letter from NOVA IMS, and proof of health insurance. This process usually takes about a week.\n\n2. **Setting up your Bank Account:** You might want to open a local bank account to manage your living expenses. There are several banks in Portugal with English-speaking services for international students.\n\n3. **Familiarizing yourself with Public Transport:** Lisbon has an excellent public transportation system. It includes buses, trams, and the metro. Fares are quite reasonable, especially considering how comprehensive the network is.\n\n4. **Exploring your Neighborhood:** Take some time to explore your new neighborhood and familiarize yourself with local shops, markets, and restaurants. Lisbon offers a rich cultural scene and diverse food options. Your food budget will depend on where you choose to eat.\n\n5. **Staying Connected:** Make sure to set up a Portuguese phone number or get a local SIM card for your mobile phone. This will make it easier to communicate with your new classmates, friends, and the university.\n\nRemember, transitioning to a new place takes time, so be patient with yourself. Enjoy the journey of discovery and don't hesitate to reach out if you have any questions or need further assistance!",
+        "contexts": [
+            "and stay in Portugal",
+            ". Public transport in Lisbon is fairly simple to use and generally safe",
+            "Cost of transport in Lisbon",
+            ". The best way to get around Lisbon is by using the incredible public transportation system in place across the city",
+            ". Lisbon has a variety of options in terms of groceries and restaurants, so your food budget will vary depending on where you go"
+        ]
+    },
+    {
+        "question": "Does NOVA IMS accept international students?",
+        "answer": " Absolutely, NOVA IMS welcomes students from all around the world. The university values diversity and is committed to providing an inclusive learning environment. If you have any specific questions about the application process or requirements for international students, feel free to ask!",
+        "contexts": [
+            "NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers",
+            "NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers",
+            "NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers",
+            "NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers",
+            "Upon registration (1stand 2ndyears), students should make the following payments at NOVA IMS:"
+        ]
+    },
+    {
+        "question": "As a non-EU student, what are the requirements to study at NOVA IMS in Lisbon?",
+        "answer": " As a non-EU student planning to study at NOVA IMS in Lisbon, you'll need to secure a student visa. The process includes submitting your application to the Portuguese embassy or consulate in your home country. You'll typically need to provide documents such as proof of acceptance into a program at NOVA IMS, financial resources to support yourself during your studies, and health insurance coverage. Keep in mind that requirements may vary slightly depending on your individual circumstances, so it's important to double-check with the Portuguese embassy or consulate for the most accurate information. Rest assured, this is an exciting step towards starting your academic journey at NOVA IMS! If you have any questions or need further clarification, feel free to ask.",
+        "contexts": [
+            "Applicants, nationals from EU/EFTA nations, do not need a visa to study in Portugal.",
+            "Students from non-EU nations normally need a visa to study in Portugal",
+            ".m.) at NOVA School of Law or NOVA IMS, in Campus de Campolide, in Lisbon.",
+            "Scholarships for access to NOVA University Lisbon study cycles",
+            "are NOVA University Lisbon students, nationals or stateless persons, foreigners with tax residence in Portugal or with refugee"
+        ]
+    },
+    {
+        "question": "What is the Portuguese Social Security Identification Number (NISS), and why do I need it?",
+        "answer": " The Portuguese Social Security Identification Number, or NISS for short, is a unique identifier used by the Portuguese Social Security system. It's essential for accessing various rights and obligations under Portugal's Social Security. Once you have this number, it will help simplify interactions with different institutions in Portugal, including healthcare services and financial organizations. It's an important part of setting up your life as a new resident here. I'm glad you asked, as understanding this early on can save time and effort later! If you need guidance on how to apply for your NISS, please don't hesitate to ask.",
+        "contexts": [
+            "Allocation of a Portuguese Social Security Identification Number (NISS)",
+            "What is the Social Security Identification Number (NISS)?",
+            "The Social Security Identification Number (NISS) is the number that allows a unique, precise and accurate identification of",
+            "The Social Security Identification Number (NISS) allows access to rights and obligations in Social Security.",
+            "HOW TO APPLY FOR A SOCIAL SECURITY IDENTIFICATION NUMBER (NISS)"
+        ]
+    },
+    {
+        "question": "How can a foreign citizen obtain a NISS?",
+        "answer": " To obtain a Security Identification Number (NISS) as a foreign citizen in Portugal, you'll need to submit an application form along with certain documents. These documents typically include a valid passport and any relevant visa or residence permit. It's important to remember that requirements may vary, so it's best to check the most up-to-date information from official Portuguese sources or directly with NOVA IMS or the appropriate service for the most accurate details. I'm here to help answer questions about NOVA IMS and related topics, so feel free to ask if you have any further queries!",
+        "contexts": [
+            ". In this case, the foreign citizen must attach the following documents to the NISS application form:",
+            ".), the foreign citizen must attach the following documents to the NISS application form:",
+            "Security Identification Number (NISS) – Foreign Citizens and National Citizens who are not required to have a Citizen Card)",
+            "Number (NISS) – Foreign Citizens and National Citizens who are not required to have a Citizen Card",
+            "the foreign citizen must attach the following documents to the NISS application form:"
+        ]
+    },
+    {
+        "question": "How many master's programs does NOVA IMS offer?",
+        "answer": " NOVA IMS offers 17 master's programs. It's great to see such a diverse range of options for students to choose from! If you have any other questions or need help with anything related to studying at NOVA IMS, feel free to ask.",
+        "contexts": [
+            "NOVA IMS offers 23 postgraduate and 17 master's programs.",
+            "NOVA IMS offers three bachelor's degree programs:\n- Data Science\n- Information Management\n- Information Systems",
+            ".900 for NOVA IMS' Alumni (Undergraduate, Postgraduate, Master Degree and Doctoral Programs) from a different program of the one",
+            ".300 for NOVA IMS' Alumni (Undergraduate, Postgraduate, Master Degree and Doctoral Programs) from a different program of the one",
+            "- NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20%"
+        ]
+    },
+    {
+        "question": "Can you provide a list of the master's programs available at NOVA IMS?",
+        "answer": " Absolutely, NOVA IMS currently offers a variety of master's programs. There are 17 master's programs in total that you can apply for during the current application phase which is open from May 19th to June 18th. If you need more information about any specific program, feel free to ask!",
+        "contexts": [
+            "NOVA IMS offers 23 postgraduate and 17 master's programs.",
+            "NOVA IMS offers three bachelor's degree programs:\n- Data Science\n- Information Management\n- Information Systems",
+            "- Alumni who have completed a bachelor's, postgraduate, master degree, or a doctoral Programs at NOVA IMS,ISCTE",
+            "A new application phase for NOVA IMS' postgraduate and master's programs is open from May 19th to June 18th",
+            "A new application phase for NOVA IMS' postgraduate and master's programs is open from May 19th to June 18th"
+        ]
+    },
+    {
+        "question": "Is there a master's program related to marketing?",
+        "answer": " Absolutely, NOVA IMS offers several Master's programs that touch on marketing. The \"Master's Degree Program in Data-Driven Marketing\" is one of them, and it has specializations in areas like Digital Marketing and Analytics, Marketing Research and CRM. These programs aim to provide students with a strong foundation in marketing principles and practices, as well as the skills needed to effectively use data to drive marketing strategies. If you're interested in this field, these programs could be a great fit for you! Let me know if you have any specific questions about them or if there's anything else I can help with.",
+        "contexts": [
+            "The Master's Degree Program in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics, is aimed at",
+            "This Postgraduate program gives access to the Master's Degree Program in Data-Driven Marketing, with a specialization in",
+            "The Master Degree Program in Data-Driven Marketing, with a specialization in Marketing Research and CRM, fills a gap in the",
+            "This Postgraduate Program gives access to the Master Degree program in Data-Driven Marketing, with a specialization in",
+            "This program gives access to the Master Degree Program in Data-Driven Marketing, with a specialization in Digital Marketing and"
+        ]
+    },
+    {
+        "question": "What information can you provide about the Master’s Degree in Data Science and Advanced Analytics, specializing in Business Analytics?",
+        "answer": " I'm glad you're interested in the Master's Degree in Data Science and Advanced Analytics with a specialization in Business Analytics at NOVA IMS. This program is designed to provide students with a strong foundation in data science and advanced analytics, with a specific focus on business applications. You'll have the opportunity to gain expertise in various areas of business analytics, such as statistical modeling, predictive analytics, machine learning, and more. The ultimate goal is to prepare graduates for careers where they can use data-driven insights to make informed business decisions. If you have any specific questions about the curriculum, requirements, or application process, feel free to ask!",
+        "contexts": [
+            "The Master degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics, is aimed",
+            "Master Degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics",
+            "The master's programs are:\n- Master Degree in Data Science and Advanced Analytics, with a specialization in Business Analytics",
+            "- Master Degree in Data Science and Advanced Analytics, with a specialization in Data Science",
+            "The Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science, is aimed at"
+        ]
+    },
+    {
+        "question": "Who is the coordinator of the Master’s Degree in Data Science and Advanced Analytics, specializing in Business Analytics?",
+        "answer": " I'd be happy to help you with information about NOVA IMS and its master's programs. However, I don't have specific details about individual program coordinators on hand. It would be best to contact the university directly for this information. Their website or student services office should be able to provide you with the most accurate and up-to-date contact details for the person in charge of the Master's Degree in Data Science and Advanced Analytics, specializing in Business Analytics. Don't hesitate if you have any other questions related to NOVA IMS or moving to Lisbon as a student!",
+        "contexts": [
+            "Master Degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics",
+            "The Master degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics, is aimed",
+            "- Master Degree in Data Science and Advanced Analytics, with a specialization in Data Science",
+            "The master's programs are:\n- Master Degree in Data Science and Advanced Analytics, with a specialization in Business Analytics",
+            "Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science"
+        ]
+    },
+    {
+        "question": "As a foreign student, how much does it cost to study for a Bachelor's Degree at NOVA IMS?",
+        "answer": " I'm here to assist with questions about NOVA IMS and related topics. Regarding your question, the cost of studying for a Bachelor's Degree at NOVA IMS for a foreign student is not explicitly stated in the information provided. However, if you have previously completed an undergraduate degree from NOVA IMS or another institution that is approved by NOVA IMS' Scientific Council, there are specific fees mentioned for NOVA IMS Alumni. These fees are listed as \".900\" and \".300\" in the document, but without further context it's difficult to determine which fee applies to a Bachelor's Degree specifically. For the most accurate and up-to-date information, I recommend contacting NOVA IMS directly or checking their official website for detailed tuition fees.",
+        "contexts": [
+            ".900 for NOVA IMS' Alumni (Undergraduate, Postgraduate, Master Degree and Doctoral Programs) from a different program of the one",
+            ".300 for NOVA IMS' Alumni (Undergraduate, Postgraduate, Master Degree and Doctoral Programs) from a different program of the one",
+            "- Holding a foreign academic degree, approved by the Scientific Council of NOVA IMS, for achieving undergraduates' goals;",
+            "- Holding a foreign academic degree, approved by the Scientific Council of NOVA IMS, for achieving undergraduates' goals;",
+            "- Holding a foreign academic degree, approved by the Scientific Council of NOVA IMS, for achieving undergraduates' goals;"
+        ]
+    },
+    {
+        "question": "What are the entry requirements for the Postgraduate Program in Enterprise Data Science & Analytics?",
+        "answer": " I'm glad you're interested in the Postgraduate Program in Enterprise Data Science & Analytics at NOVA IMS. To apply, you typically need a bachelor's degree or an equivalent qualification. However, the exact requirements can vary. It's important to check the official NOVA IMS website or contact their admissions office directly for the most accurate and up-to-date information regarding specific entry requirements and application procedures. This will ensure you have all the necessary details to make a successful application. Good luck with your application process!",
+        "contexts": [
+            "- Postgraduate Program Enterprise Data Science & Analytics",
+            "Postgraduate Program Enterprise Data Science & Analytics",
+            "Developed in partnership with Microsoft, the Postgraduate Program in Enterprise Data Science & Analytics will present the",
+            "- Postgraduate Program in Data Analytics",
+            "The Postgraduate Program in Data Analytics aims to train experts and managers qualified to lead and guide information"
+        ]
+    },
+    {
+        "question": "How can I apply to the Postgraduate Program in Enterprise Data Science & Analytics?",
+        "answer": " I'm glad you're interested in the Postgraduate Program in Enterprise Data Science & Analytics at NOVA IMS. The application process typically involves a few steps. First, you'll need to check the program's specific entry requirements, which usually include having a bachelor's degree and meeting certain academic prerequisites. You can find more detailed information on the NOVA IMS website or by contacting their admissions office directly.\n\nOnce you've confirmed that you meet the eligibility criteria, you can submit your application online through their platform. This will usually involve providing some personal and educational background information, uploading required documents such as transcripts and letters of recommendation, and paying a non-refundable application fee.\n\nThe application deadlines vary from year to year, so be sure to check the NOVA IMS website for the most current information. After you've submitted your application, it will be reviewed by the admissions committee. They will assess your qualifications based on your academic record, personal statement, and other application materials.\n\nIf your application is accepted, you'll then need to follow the instructions provided by NOVA IMS to secure a student visa for Portugal and prepare for your move to Lisbon. I'd be happy to help answer any questions you have about that process as well!\n\nRemember, this is a big step, and it's normal to feel a bit overwhelmed. Don't hesitate to reach out if you have any questions or need clarification on anything along the way. Good luck with your application!",
+        "contexts": [
+            "- Postgraduate Program Enterprise Data Science & Analytics",
+            "Postgraduate Program Enterprise Data Science & Analytics",
+            "Developed in partnership with Microsoft, the Postgraduate Program in Enterprise Data Science & Analytics will present the",
+            "- Postgraduate Program in Data Analytics",
+            "Postgraduate Program in Data Analytics"
+        ]
+    },
+    {
+        "question": "Are there any discounts available for the Master’s Degree in Information Management, specializing in Business Intelligence?",
+        "answer": " Absolutely, I'd be happy to help you with that! Discounts for master's degrees can vary and it's important to check with NOVA IMS directly for the most accurate information. They may offer scholarships or discounts based on specific criteria such as academic merit, financial need, or country of origin. It would be a good idea to contact their student services office or visit their website to explore the available options. In the meantime, if you have any other questions about the program or living in Lisbon, feel free to ask!",
+        "contexts": [
+            "- Master Degree in Information Management, with a specialization in Business Intelligence",
+            "Master Degree in Information Management, with a specialization in Business Intelligence",
+            "This Master Degree Program in Information Management, with a specialization in Business Intelligence aims to train experts and",
+            "- Master Degree in Information Management, with a specialization in Information Systems Management",
+            "- Master Degree in Data-Driven Marketing, with a specialization in Marketing Intelligence"
+        ]
+    },
+    {
+        "question": "Does Professor Fernando Bação coordinate any academic programs?",
+        "answer": " Professor Fernando Bação is a faculty member at NOVA IMS. While I don't have specific information about which academic programs he coordinates, I can tell you that he contributes to the Information Management and Data Science education at the school. If you're interested in a particular program, it would be best to check NOVA IMS's official website or contact their student services directly for the most accurate and up-to-date information. I'm here to help answer any questions you might have about the application process, living in Lisbon, or studying at NOVA IMS!",
+        "contexts": [
+            ".",
+            ".",
+            ".",
+            ".",
+            "."
+        ]
+    },
+    {
+        "question": "Can I apply to multiple programs at NOVA IMS?",
+        "answer": " Absolutely, you can apply to multiple programs at NOVA IMS. In fact, many students express interest in more than one program due to the diverse range of offerings. It's important to carefully consider your goals and interests before making your final decision. If you have specific questions about the application process for multiple programs, feel free to ask!",
+        "contexts": [
+            "NOVA IMS offers 23 postgraduate and 17 master's programs.",
+            "The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most",
+            "The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most",
+            "The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most",
+            "The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most"
+        ]
+    },
+    {
+        "question": "Does NOVA IMS provide accommodation options?",
+        "answer": " Absolutely, NOVA IMS does offer some accommodation options. You can find these services under the Academic Services umbrella. However, availability and specifics can vary, so it's a good idea to reach out directly to them for the most accurate information. Remember, moving abroad is an exciting step and they are there to help make your transition as smooth as possible.",
+        "contexts": [
+            "that you can find at NOVA IMS, as Academic Services, IT services and Library and Documentation Services",
+            "NOVA IMS is located in Campus de Campolide, a Campus that provides some facilities such as school residence, food services,",
+            "of NOVA IMS, forbeing able to conduct this study program",
+            "of NOVA IMS, forbeing able to conduct this study program",
+            "Please be aware that NOVA IMS cannot interfere in Embassy’s decision"
+        ]
+    },
+    {
+        "question": "Can you recommend websites for finding accommodation in Lisbon?",
+        "answer": " Absolutely! There are several websites that can help you find accommodation in Lisbon. Some popular options include:\n\n1. Idealist: This is a great platform for finding rooms and apartments for rent. You can filter your search based on location, price range, and other preferences. (www.idealist.pt)\n2. Net-Empregos: Apart from job listings, this site also has a housing section where you can find accommodation in Lisbon. (www.net-empregos.pt)\n3. HousingAnything: This is another useful platform for finding accommodation. It allows users to post listings and connect directly with landlords or property managers. (www.housinganything.com)\n4. Zimmo: Zimmo is a popular real estate website in Portugal where you can find apartments, houses, rooms, and student accommodation in Lisbon. (www.zimmo.pt)\n\nRemember, the cost of rent in Lisbon can vary greatly depending on the neighborhood you choose to live in. I'm here if you have any other questions about living in Lisbon or studying at NOVA IMS!",
+        "contexts": [
+            "rooms with those who need them to live and study in greater Lisbon",
+            ". The amount you pay in rent while living in Lisbon will vary a lot depending on which Lisbon neighbourhood you decide to live",
+            "Average rent in Lisbon",
+            ". Lisbon has a variety of options in terms of groceries and restaurants, so your food budget will vary depending on where you go",
+            "and stay in Portugal"
+        ]
+    },
+    {
+        "question": "I’m interested in learning Portuguese. Does the university offer a Portuguese language course?",
+        "answer": " Absolutely, you're in luck! NOVA IMS does offer Portuguese language courses specifically designed for international students like yourself. These courses are not only helpful for your daily life in Lisbon but also essential if you plan to engage fully with the local community and academic environment. You'll be interacting with fellow students and instructors in Portuguese during these courses, making it an immersive learning experience. If you have any questions about these programs or need more details, feel free to ask!",
+        "contexts": [
+            "Portuguese Language Courses",
+            "**Q: Does the University offer a Portuguese course for international students?**",
+            "A: Yes, there is a Course of Portuguese as Foreign Language",
+            "as well as courses of Portuguese as a foreign language targeted to foreign and international mobility students",
+            ". The interaction with the students will be done in the Portuguese language."
+        ]
+    },
+    {
+        "question": "I want to apply to three programs. Is that possible, and is there an application fee?",
+        "answer": " I'm here to assist with questions about NOVA IMS and related topics, including applications. The information I have suggests that you can apply to a maximum of two programs during each application phase and pay the application fee for each program separately. However, if you find yourself in a situation where you wish to apply to a third program, it would be best to contact NOVA IMS directly for the most accurate and up-to-date information. They can provide clarification on any exceptions or additional fees that may apply. Remember, this is an exciting time, and they're there to help support your academic journey!",
+        "contexts": [
+            "A: You can apply to a maximum of 2 programs per application phase, by paying the application fee for each program, that is, the",
+            "**Q: Can I apply to more than one program?**",
+            "choose the program and pay the application fee in the Portal",
+            "Admissions and fees\n\nApplication fee\n\nApplication fee",
+            "A: Since it is possible for candidates to apply for two programs per application phase, there will be cases where the same"
+        ]
+    },
+    {
+        "question": "As a higher education student, how can I obtain a residence permit in Portugal?",
+        "answer": " If you're coming from outside the European Union (EU) to study at NOVA IMS in Lisbon, I'd be happy to help guide you through the process of obtaining a residence permit. Here are some general steps you might follow:\n\n1. **Secure admission to NOVA IMS**: Before you can apply for a residence permit, you need to have been accepted into a Master’s or Postgraduate program at NOVA IMS.\n2. **Apply for a student visa (if necessary)**: If you're not from an EU country, you may first need to apply for a Schengen Visa to enter Portugal. However, it's also possible to come to Portugal with a Schengen visa and then apply for a Residence Permit for Higher Education Students once you're here.\n3. **Register at the SEF (Portuguese Immigration and Borders Service)**: After your arrival in Portugal, you should register at the SEF within 90 days if you're staying for more than 90 days. They will process your application for the residence permit.\n4. **Provide necessary documents**: You'll need to submit some documents when applying for the residence permit. These might include proof of acceptance into NOVA IMS, evidence of sufficient funds to cover living expenses, and a valid travel document.\n5. **Pay the fee**: There is a fee associated with applying for the residence permit. Make sure to have this ready.\n6. **Wait for approval**: The processing time can vary, so it's important to be patient. Once approved, you'll receive your residence permit and can enjoy the benefits of living in Portugal as a student.\n\nRemember, every situation is unique, so it's essential to check with the Portuguese embassy or consulate in your home country or with NOVA IMS for the most accurate information regarding your specific case. I'm here to help answer any questions you might have and provide support during this exciting journey!",
+        "contexts": [
+            "Holders of a residence permit for higher education students issued/applied for in Portugal, or students in higher education",
+            "In the absence of a long term visa for Portugal, students holding a residence permit issued by a Member State of the European",
+            "Third Country nationals holding a Residence Visa for Higher Education Students and planning to stay in Portugal for longer than",
+            "Students from non-EU nations normally need a visa to study in Portugal",
+            ".Although it’s also possible to entry in Portugal with a Schengen visa and then try to apply for a Residence Permit for Higher"
+        ]
+    },
+    {
+        "question": "What documents do I need to apply for a residence permit as a higher education student?",
+        "answer": " I'm here to help answer questions related to NOVA IMS, studying in Portugal, and moving to Lisbon as an international student. Regarding your question, the documents required for a residence permit as a higher education student can vary depending on specific circumstances. However, from the information provided, it seems that you might need to submit proof of enrollment at NOVA IMS or another Portuguese educational institution, along with other standard identification and visa documents. It's essential to double-check the application requirements with the appropriate Portuguese authorities or your school's international student services for the most accurate details. Remember, every step of moving abroad is an adventure – I'm here to support you!",
+        "contexts": [
+            "A residence permit is granted to higher education students holding a residence visa issued in accordance with Article 62 and",
+            ". In order to extend their stay, they need to apply for a residence permit for higher education students with visa exemption",
+            "A residence permit may be granted to a higher education student who does not hold a residence visa issued under Article 62,",
+            "Residence Permit Issued to Higher Education Students – Article 91\n\nLegal Framework",
+            "- Granting the residence permit requires:"
+        ]
+    },
+    {
+        "question": "How can I prove my financial means to qualify for a residence permit?",
+        "answer": " \"Hi there! Proving your financial means for a residence permit is an important part of the application process. The specific documents you'll need can vary depending on your individual situation. However, some common documents include proof of the application submission for a temporary residence permit, a temporary residence permit itself, or a residence permit extension. You might also be asked to provide proof of a subsidiary protection grant if you're a refugee. Remember, it's a big step moving abroad and starting this new journey, but with the right information and preparation, it can be a very rewarding experience. Let me know if you have any other questions about studying at NOVA IMS or life in Lisbon!\"",
+        "contexts": [
+            "Proof of financial means depends on the applicant's situation and may include the following documents:",
+            "Proof of the application submission for a temporary residence permit; temporary residence permit; proof of the temporary",
+            "- Granting the residence permit requires:",
+            "have submitted an application for a residence permit or already have such permit, or",
+            "temporary residence permit extension; proof of residence permit/subsidiary protection granting - refugee; residence"
+        ]
+    }
+]
